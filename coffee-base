@@ -21,3 +21,13 @@ It should:
 - infer roast level
 - infer brew suitability: espresso, filter, milk, aeropress
 - classify flavor families: chocolatey, fruity, nutty, floral, funky, spicy, sweet
+
+
+Improve enrich_metadata.py:
+- extract estate, region, country from descriptions and HTML tables
+- set currency to INR by default
+- clean tasting notes by removing leading words like "and", "with", "a"
+- reject tasting notes longer than 5 words unless manually whitelisted
+- detect honey as process only when near words like process, processed, processing
+- improve roast detection for medium-dark, vienna, dark, light-medium
+- add price_per_100g if weight is available
