@@ -31,3 +31,16 @@ Improve enrich_metadata.py:
 - detect honey as process only when near words like process, processed, processing
 - improve roast detection for medium-dark, vienna, dark, light-medium
 - add price_per_100g if weight is available
+
+
+Fix location extraction in enrich_metadata.py.
+
+Rules:
+- country must only be from a whitelist: India, Colombia, Ethiopia, Kenya, Brazil, Panama, Costa Rica, Indonesia, Honduras, Guatemala, Peru, Rwanda, Burundi, El Salvador, Nicaragua.
+- never infer country from estate names or proper nouns.
+- for Indian roasters, default country to India unless text clearly mentions another country.
+- estate should only match patterns like "<Name> Estate", "from <Name> Estate", "processed at <Name> Estate", "sourced from <Name> Estate".
+- estate value should be only the estate name, e.g. "Ratnagiri", "Harley", "Attikan", not a full sentence.
+- region should only match known region/location patterns like Chikmagalur, Coorg, Sakleshpur, Shevaroys, Yercaud, Karnataka, Tamil Nadu, Huila.
+- reject estate/region values longer than 5 words.
+- if confidence is low, set null instead of guessing.
