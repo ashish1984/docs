@@ -45,3 +45,25 @@ Output top 20 recommendations with:
 - reason
 
 Do not use ML yet. Use transparent rule-based scoring.
+
+
+
+
+Create a README.md for this project.
+
+Include:
+- what this project does
+- current capabilities:
+  - scrape coffee metadata
+  - enrich metadata
+  - validate metadata
+  - recommend coffees
+  - search catalog
+  - find similar coffees
+  - generate taste fingerprints
+  - explain recommendations
+- project folder structure
+- how to run each script
+- sample commands
+- known limitations
+- next roadmap
