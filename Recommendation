@@ -1,0 +1,47 @@
+Build Recommendation MVP v0.1 for my coffee project.
+
+Input:
+- output/coffee_enriched.json
+
+Create:
+1. recommend.py
+2. user_profile.yml
+3. output/recommendations.json
+
+User profile should support:
+- preferred_brew_methods
+- preferred_flavor_families
+- preferred_tasting_notes
+- preferred_processes
+- preferred_roast_levels
+- max_price
+- disliked_estates
+- disliked_flavor_families
+- disliked_keywords
+
+Scoring:
+- brew method match: 25
+- flavor family match: 25
+- tasting note match: 20
+- process match: 15
+- roast level match: 10
+- price fit: 10
+- penalties:
+  - unavailable: -100
+  - disliked estate: -30
+  - disliked keyword in name/description: -20
+
+Output top 20 recommendations with:
+- coffee name
+- roaster
+- score
+- price
+- estate
+- process
+- roast_level
+- tasting_notes
+- flavor_families
+- brew_suitability
+- reason
+
+Do not use ML yet. Use transparent rule-based scoring.
