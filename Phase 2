@@ -1,0 +1,114 @@
+We now have output/coffee_enriched.json and a working recommend.py.
+
+Next sprint: build Coffee Intelligence capabilities, not more scraping.
+
+Create these modules:
+
+1. search.py
+Purpose:
+Search the enriched coffee catalog using filters.
+
+Support queries:
+- by roaster
+- by estate
+- by process
+- by roast_level
+- by flavor_family
+- by tasting_note
+- by brew_suitability
+- max_price
+- availability only
+
+Example commands:
+python search.py --estate Ratnagiri
+python search.py --process co-ferment
+python search.py --brew espresso --max-price 800
+python search.py --flavor chocolatey --roast medium-dark
+
+Output:
+- name
+- roaster
+- price
+- estate
+- process
+- roast_level
+- tasting_notes
+- brew_suitability
+
+
+2. similarity.py
+Purpose:
+Find coffees similar to a given coffee.
+
+Input:
+python similarity.py --coffee "Truffle Twilight"
+
+Scoring:
+- same estate: 25
+- process overlap: 20
+- flavor family overlap: 20
+- tasting note overlap: 20
+- brew suitability overlap: 15
+- roast level match: 10
+- price closeness: 10
+
+Output top 10 similar coffees with:
+- similarity_score
+- matching_reasons
+- coffee metadata
+
+
+3. fingerprint.py
+Purpose:
+Create a taste fingerprint for every coffee.
+
+Fields:
+- sweetness
+- acidity
+- body
+- fruitiness
+- chocolate
+- nuttiness
+- floral
+- funkiness
+- spice
+- milk_friendly
+- espresso_friendly
+
+Each score should be 0-10.
+
+Use rule-based scoring from:
+- tasting_notes
+- flavor_families
+- process
+- roast_level
+- brew_suitability
+- description_plain
+
+Write output:
+output/coffee_fingerprints.json
+
+
+4. explain.py
+Purpose:
+Explain why a coffee was recommended.
+
+Input:
+python explain.py --coffee "Truffle Twilight"
+
+Output:
+A human-readable explanation:
+- what profile this coffee has
+- who it suits
+- why it matches espresso/milk/filter
+- what kind of drinker may like it
+- warnings if any, e.g. dark roast, funky, acidic, expensive
+
+
+Rules:
+- Do not use ML yet.
+- Keep everything deterministic and explainable.
+- Reuse existing output/coffee_enriched.json.
+- Add clear logging.
+- Add helpful terminal output.
+- Keep code simple and modular.
