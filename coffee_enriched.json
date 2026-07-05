@@ -39,7 +39,7 @@
     ],
     "estate": "Harley",
     "region": "Sakleshpur",
-    "country": "Harley",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -78,7 +78,7 @@
     ],
     "estate": "Ratnagiri",
     "region": null,
-    "country": "Ratnagiri",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -127,8 +127,8 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "The biligiriranga hills of karnataka and run by the sangameshwar group, attikan has long been a source of expressive",
-    "country": "Arabica",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -163,9 +163,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Specialty from the renowned gungegiri estate in chikmaglur, india. grown at an elevation of 4,600 feet. dark honey processing leaves a generous amount of sticky, fruit-rich mucilage on the coffee bean during drying. this slow, shade-dried approach allows natural fruit sugars to deeply ferment and absorb into the seed, resulting in an exceptionally full-bodied cup with a heavy, viscous mouthfeel. the coffee is a symphony of flavour that draws you in with its rich, dessert-like profile",
-    "country": "Chikmaglur",
+    "estate": "Gungegiri",
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -208,7 +208,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "This process, the coffee cherries are fermented in an oxygen-free environment, which enhances their fruity acidity and aromatic complexity. following this",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -248,8 +248,8 @@
       "funky"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Our fruit ferment series and our highest-scoring coffee yet",
+    "estate": "Ratnagiri",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -287,9 +287,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Every cup. processed at ratnagiri estate in chikmagalur, south india by producer mr. ashok patre, this coffee is bold, tropical, and intensely expressive. expect watermelon, bubblegum, jolly rancher candy, purple grapes, and raspberries with high sweetness and bright acidity. best enjoyed black",
-    "country": "Chikmagalur",
+    "estate": "Ratnagiri",
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -331,9 +331,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Coorg's renowned estate delivers an elevated experience perfect for specialty coffee lovers seeking quality, complexity, and everyday indulgence. Ideal for all brewing methods",
-    "region": "Lush coorg",
-    "country": "Coorg",
+    "estate": "Hardoor",
+    "region": "Coorg",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -383,9 +383,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "Renowned basankhan estate in karnataka's chikmagalur",
-    "country": "Karnataka",
+    "estate": "Basankhan",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -427,8 +427,8 @@
       "Espresso"
     ],
     "estate": "Sethuraman",
-    "region": "Lush magundi",
-    "country": "Sethuraman",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -469,8 +469,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": "Sethuraman",
-    "region": "Vibrant magundi",
-    "country": "Sethuraman",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -513,9 +513,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "San Agust",
-    "region": null,
-    "country": "San",
+    "estate": null,
+    "region": "Huila",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -630,9 +630,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Harley estate has been aged with rum to enhance the inherent fruitiness and bring out the sweet flavours of rum & raisin. The resultant coffee develops a good body with notes of ripe blueberries with a citrus finish. This coffee has a long lasting finish which shall linger on your palate with a creamy texture.",
+    "estate": "Harley",
     "region": null,
-    "country": "Harley",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -670,9 +670,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Baarbara Estate and another one from Attikan",
+    "estate": "Baarbara",
     "region": null,
-    "country": "Baarbara",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -705,7 +705,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "Their morning cup. pairs beautifully with milk and best suited to be brewed on a french press, mokapot",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -745,9 +745,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": "Final cup. rather than highlighting a single lot, we chose to assemble a blend of complementary high-grown coffees from the estate to capture a broader expression of the",
-    "country": "Krishnagiri",
+    "estate": "Krishnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -792,9 +792,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "PKC Kudiraipanjan",
-    "region": "Pkc kudiraipanjan estate, shevaroys hills, tamil nadu process mechanically washed with fresh stream water and soaked again for 48 hours then dried for 18 days, hulled and polished. brix 24 varietal & altitude sln 9 & catimor grown at 1400 msl dry aroma berries & plums wet aroma plum",
-    "country": "PKC",
+    "estate": "Kudiraipanjan",
+    "region": "SHEVAROYS",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -840,8 +840,8 @@
       "Espresso"
     ],
     "estate": "Ratnagiri",
-    "region": "Ratnagiri estate, chikmagalur process anaerobic fermented naturals are hot washed followed by a rapid cold wash & eventually tumble mechanical dried at the farm. brix 24.8 varietal & altitude sl9 grown at 4450 feet dry aroma ripe red berries wet aroma jackfruit, dates & milk chocolate. based on sensory evaluation banana, deep date sweetness along with milk chocolate and subtropical fruit finish. roast profile roasted above medium with high dtr & variable drum speed. characteristics deeply sweet cup",
-    "country": "Ratnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -887,8 +887,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "Tsiesema village, kohima, nagaland process sun-dried anaerobic naturals with raised bed drying. varietal & altitude chandragiri grown at 1350 msl dry aroma blueberries, pineapples & chocolate pre-crust aroma dried figs & apples post-crust aroma jackfruit, nuts & dates. sensory evaluation vibrant citrus characters, layered with orange, green grape & red apple atop a sweet base of dried fig. roast profile ultra-light roast with elevated heat & restrained airflow",
-    "country": "Tsiesema",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -930,9 +930,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": "Your final cup. suitable for all brew methods. sweet & bright indian arabica coffee. origin yelnoorkhan estate, pandaravalli village, mallenahalli process high altitude washed arabica dried on raised beds. varietal & altitude chandragiri grown at 5300 feet dry aroma dates & chickoo pre crust aroma cardamon, green grapes & dates post crust aroma chickoo, milk chocolate & raisins based on sensory evaluation sweet lime & gooseberry brightness",
-    "country": "Yelnoorkhan",
+    "estate": "Yelnoorkhan",
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -974,9 +974,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": "Your final cup. suitable for all brew methods. ideal as filter. indian arabica coffee. serving as pour-over at bandra, mumbai origin ratnagiri estate, chikmagalur process anaerobic fermented naturals with culture microbes & mechanical dried at the farm. varietal & altitude sl9 grown at 4450 feet dry aroma jasmine florals, chocolate & grapefuit wet aroma jasmine",
-    "country": "Ratnagiri",
+    "estate": "ratnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1016,9 +1016,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "St. Joseph",
-    "region": "Hills of perumalmalai in kodaikanal , a region often referred to as the princess of hill stations . the estate sits at approximately 4000 feet above sea level , where cooler mountain temperatures allow for slower cherry maturation and a more concentrated sugar development in the fruit. the coffee is composed of catimore, chandragiri, and sln9 cultivars, varieties well suited to the high elevation conditions of the",
-    "country": "Princess",
+    "estate": "Joseph",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1052,8 +1052,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Belur, karnataka process hand picked",
-    "country": "Belur",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1097,8 +1097,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "Loop heavy bodied with raspberry tartiness in your final cup. suitable for all brew methods. fruity indian arabica coffee. origin chikmagalur, karnataka process anaerobic fermentation done in 3 stages for 72 hours , 48 hours and 24 hours consecutively. eventually sun-dried on raised beds for a extended period. brix 22 varietal & altitude sl795 & chandragiri grown at 4180 ft dry aroma pineapple, mandarin & cacao wet aroma prune & chocolate sensory evaluation natural lot with rich & ripe character of raspberry backed up by round milk chocolate contrasted with a crisp & sweet mandarin acidity. roast profile med roast with high dtr",
-    "country": "Chikmagalur",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1138,9 +1138,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Ripe Red berries. Dry Aroma Hazelnut, Cacao & Dates Wet Aroma Almond, Berry Jam & Milk Chocolate Roast Profile Low Temperature Fed Slightly above Med Roast, High DTR & Extended Maillard Phase. Minimum resting period Filter 5 Days",
-    "region": "Chikmagalur, karnataka varietal & altitude selection 5b, 9 & chandragiri grown at 3800 - 4100 feet sensory evaluation almonds, chocolate buttercream and deep sweetness from ripe red berries. dry aroma hazelnut, cacao & dates wet aroma almond, berry jam & milk chocolate roast profile low temperature fed slightly above med roast",
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1181,8 +1181,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "Loop fruity, round body with red berry finish. suitable for all brew methods. our best selling indian arabica coffee. serving as house blend at grey soul coffee roasters, bandra, mumbai. origin chikmagalur, karnataka process various coffee processing techniques varietal blended varietals grown at 4500 feet dry aroma red berries",
-    "country": "Chikmagalur",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1210,7 +1210,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": "Japan",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1334,9 +1334,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Attikan Estate A chocolatey and nutty coffee from Baarbara",
+    "estate": "Attikan",
     "region": null,
-    "country": "Attikan",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1384,7 +1384,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "This rich, full-bodied coffee. enjoy it black",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -1426,7 +1426,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Fog on a january morning, pranoy noticed unseasonal blossoms in one of the blocks. there, he had the idea of collecting jarfuls of these blossoms for a starter culture. the goal was to see what happens when kerehaklu's own microbiome shapes processing. aiding a 71-hour anoxic fermentation, the blossom culture interacted with naturally processed cherries to build fruity layers and a distinctive jamminess. to preserve this development, the coffee was dried on raised beds for three weeks. roasted to a light profile, the result is a unique expression of provenance. the cup opens with the aroma of ripe berries, followed by notes of strawberry, orange blossom, pomegranate",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -1492,7 +1492,7 @@
     "preferred_brewing_equipment": [
       "Aeropress"
     ],
-    "estate": null,
+    "estate": "Howdia",
     "region": null,
     "country": null,
     "price_per_100g": null
@@ -1547,9 +1547,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Elkhill, a group of estates spanning 1500 acres, this anaerobic washed lot comes from their first year of specialty cultivation. It brews balanced cups with layers of fruit and spice, and a subtle hint of nuts. Ripe cherries, harvested at elevations between 457 to 1067 MASL, were fermented for 36 hours. Next, they were washed then slow-dried on raised beds for nearly 18 days to preserve their character. Roasted to a medium profile, the result is a cup that opens with the aroma of brown sugar and roasted almonds. Each sip is reminiscent of orange, brown spice, and roasted hazelnut, and ends in a lingering, orange zest-like finish. Our roasters recommend brewing this coffee as an espresso, a cold brew, or using a Moka Pot. It tastes great black and also works well with milk. Recommended Resting Period",
-    "region": "A lingering, orange zest-like finish. our roasters recommend brewing this coffee as an espresso, a cold brew",
-    "country": "Elkhill",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1601,9 +1601,9 @@
       "French Press",
       "Espresso"
     ],
-    "estate": "Viishalakshi",
-    "region": "Natural farming practices for generations, the farmers use composted fruit and vegetable waste to nourish the soil and neem oil treatments to safeguard against pests. formed last year, vishalakshi has helped guide these villages from commercial coffee cultivation towards specialty practices. there is now a growing focus on pruning plants, selective picking, proper storage of beans, and careful processing. roasted to a medium profile, this honey sun-dried lot brews clean, balanced cups. it opens with brown sugar and melon, giving way to roasted almonds, prunes",
-    "country": "Araku",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1653,8 +1653,8 @@
     "preferred_brewing_equipment": [
       "Aeropress"
     ],
-    "estate": null,
-    "region": "To the mix, they let the process go on for 48 hours. finally, slow drying on raised beds for 21 days locked flavour. roasted to a medium profile, the result is a cup that carries the sweet nostalgia of drinking mosambi juice in summer. it opens with berries and cherry on the nose, then settles into tart-sweet, bright notes of mosambi, green apple, and plum. the mouthfeel is velvety with a medium body, and the finish is long and tea-like. our roasters recommend brewing it black, either as a pour over",
+    "estate": "Lobo",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -1712,7 +1712,7 @@
       "Aeropress"
     ],
     "estate": null,
-    "region": "37 hours. next, the coffee was mechanically washed and dried in the shade for three days. finally, 12 days of polyhouse drying on raised beds locked its flavour. this controlled, aerobic washed process built complexity while harnessing the bean's inherent character. roasted to a light profile, the coffee delivers clean cups that open with the aroma of orange blossoms and brown sugar. notes of orange, black tea, and green grapes follow, wrapped in a juicy mouthfeel. expect low bitterness, medium-high acidity, and a lingering finish of orange marmalade. our roasters recommend brewing it black, either as a pour over",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -1762,7 +1762,7 @@
       "Espresso"
     ],
     "estate": "Yelnoorkhan",
-    "region": "Its water and energy usage. we chose it because the other decaffeination methods available to us in india came with a catch. in removing all the caffeine, they also took away the depth that makes a cup memorable. adding artificial flavours was not something we wanted to do",
+    "region": null,
     "country": "India",
     "price_per_100g": null
   },
@@ -1857,7 +1857,7 @@
     ],
     "estate": "Kalledevarapura",
     "region": null,
-    "country": "Kalledevarapura",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -1934,9 +1934,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Attikan and Baarbara",
-    "region": null,
-    "country": "Coorg",
+    "estate": "Sandalwood",
+    "region": "Coorg",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -2070,8 +2070,8 @@
       "Moka Pot"
     ],
     "estate": "Hoysala",
-    "region": "Change the characteristics of the coffee beans . while this process has its accidental roots in colonial india when a shipment to europe was attacked by the full force of monsoon winds, similar conditions have been recreated in a controlled environment for consistency in every lot produced. when roasted medium-dark, the result is a medium-bodied cup that invites with sweet aromas of butter biscuits, treating you to notes of cocoa nib s and dried fruit, concluding with the aftertaste of dark chocolate. best enjoyed when brewed as an espresso, in the moka pot or the french press, the nutty flavour profile of this coffee makes for a delicious cup",
-    "country": "Hoysala",
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -2152,7 +2152,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "This blend are naturally processed which means that the coffee beans are dried with the cherry, resulting in complex, fruity and sweet flavours. roasted dark to bring out flavours of dark chocolate and fruit jam",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -2246,9 +2246,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "Karnataka and make for one of our most popular coffees. sweet with nutty overtones and balanced acidity, this is the darkest of our standard medium roasts and recommended for espresso lovers. it is a versatile coffee that also works for manual brewing methods such as moka pot, south indian filter and aeropress. located to the south of mysore, the biligiriranga hills",
-    "country": "Karnataka",
+    "estate": "Attikan",
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -2333,9 +2333,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Karnataka and Tamil Nadu, has great body, low acidity, and is a favourite choice for coffee drinkers who enjoy a strong cup, with its characteristic bittersweet notes. The Vienna Roast is best enjoyed with milk. Best enjoyed with milk, we recommend brewing this as an espresso or using manual brewing equipment such as Moka Pot, French Press, or South Indian filter. Recommended Resting Period",
-    "region": null,
-    "country": "Karnataka",
+    "estate": null,
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -2415,7 +2415,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "A definite bite",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -2493,8 +2493,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "Southern india. it works well in espresso-based drinks as well as in manual brews such as aeropress",
-    "country": "Southern",
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -2622,8 +2622,8 @@
       "spicy"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Dark roast. now a beloved part of our perennial selection, it comes from a family-owned farm with a rich history spanning over 100 years. at the estate, coffee grows alongside black pepper, oranges, cardamom, lemons, and bananas. as you take a sip, enjoy the velvety mouthfeel reminiscent of dark chocolate",
+    "estate": "Basankhan",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -2718,7 +2718,7 @@
     ],
     "estate": "Baarbara",
     "region": null,
-    "country": "Baarbara",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -2795,7 +2795,7 @@
       "Aeropress"
     ],
     "estate": null,
-    "region": "Fact",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -2851,7 +2851,7 @@
       "Aeropress"
     ],
     "estate": null,
-    "region": "Whole cherries. the process began by removing floaters to select only ripe, dense cherries, followed by a brief pre-drying phase to reduce surface moisture. the cherries were then sealed in drums, and a custom culture was introduced to extend the fermentation. over 60 hours, this combination of carbonic maceration and yeast inoculation ensured thorough mucilage breakdown and the development of deep complexity. post-fermentation",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -2905,9 +2905,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Stanmore, Orchardale, and Riverdale Estates in Yercaud, along with a washed lot from Unakki",
-    "region": "Yercaud, along with a washed lot from unakki estate in chikmagalur, which forms the base. its flavour profile takes us back to the black forest cakes many of us celebrated birthdays with during our teen years. opening with the aroma of honey and strawberries, the cup has a medium-high body and a round mouthfeel. you'll notice notes of strawberry, chocolate, cherry, and pear, followed by a lingering finish of chocolate-covered strawberries. this blend brews well across a range of methods, including espresso, aeropress, french press, moka pot, and pour over. equally enjoyable black or with milk",
-    "country": "Yercaud",
+    "estate": "Unakki",
+    "region": "Yercaud",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -2963,9 +2963,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Nelaji Village in Coorg. Grown by smallholder farmers and processed by Ashish Rao, a first-generation producer, these lots mark our first collaboration with Skia Coffee. Ripe, high-density cherries were pulped with the mucilage left intact, then placed in sealed tanks for a 72-hour anaerobic fermentation. A yeast strain purpose-built for controlled fermentation was introduced during this stage to develop complexity. From there, the two lots took separate paths. Honey Sun Dried The first lot was dried slowly on raised beds under controlled shade. Roasted to a medium profile, it makes for a balanced cup with notes of sweet lime, prunes, and almond. Recommended Resting Period",
-    "region": "Coorg. grown by smallholder farmers and processed by ashish rao, a first-generation producer, these lots mark our first collaboration with skia coffee. ripe, high-density cherries were pulped with the mucilage left intact, then placed in sealed tanks for a 72-hour anaerobic fermentation. a yeast strain purpose-built for controlled fermentation was introduced during this stage to develop complexity. from there, the two lots took separate paths. honey sun dried the first lot was dried slowly on raised beds under controlled shade. roasted to a medium profile, it makes for a balanced cup with notes of sweet lime, prunes",
-    "country": "Coorg",
+    "estate": null,
+    "region": "Coorg",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3017,8 +3017,8 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "Goes back a decade, when daman, a first-generation coffee producer",
-    "country": "Khasi",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3071,9 +3071,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Harvest",
-    "region": "Ground coffee hails from the beautiful kolli berri estate, set in chikmagalur, karnataka. while brewing this one",
-    "country": "Chikmagalur",
+    "estate": "Berri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3128,8 +3128,8 @@
       "Aeropress",
       "Espresso"
     ],
-    "estate": null,
-    "region": "The finish",
+    "estate": "Amruthavarshini",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3177,8 +3177,8 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "The palani hills",
+    "estate": "Garigekhan",
+    "region": "Yercaud",
     "country": null,
     "price_per_100g": null
   },
@@ -3230,9 +3230,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "St. Joseph Estate and Attikan",
+    "estate": "Joseph",
     "region": null,
-    "country": "St",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3287,7 +3287,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "Dark roast, this coffee comes from a rainforest alliance certified farm. the producers used a custom-designed pulper to process this washed lot, minimising water usage. in the cup, you'll first notice the aroma of brown spices. the brew, characterised by mellow acidity, a heavy body, and a velvety mouthfeel, reminds of oak, toasted walnuts, and malt. a bittersweet finish lingers between sips. we recommend brewing this coffee as an espresso, using a moka pot, french press, or an aeropress. it is rich enough to enjoy black",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3386,7 +3386,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The days of the british raj. each cup is packed with bold flavours, complemented by strong, nutty",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3421,8 +3421,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Coffee, carefully sourced from one exceptional farm. we traveled far and wide to find the perfect beans, ensuring top quality and unique flavors. each bean is roasted to perfection to bring out its balanced, fruity nuances. enjoy a cup that's as special as you are",
-    "country": "Coffee",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3455,7 +3455,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Every sip, making your morning coffee a delightful and energizing experience. wake up, feel great",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3487,7 +3487,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Bags indulge in a journey of taste with our assorted coffee box, featuring a delightful trio of flavors. each bag is a testament to craftsmanship, from the bold richness of vienna roast to the exotic allure of monsoon malabar and the nuanced elegance of single origin. perfectly roasted and packed to preserve freshness, this box promises a coffee experience that's diverse, satisfying",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3598,9 +3598,9 @@
     "preferred_brewing_equipment": [
       "French Press"
     ],
-    "estate": null,
+    "estate": "Ratnagiri",
     "region": null,
-    "country": "Ratnagiri",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3665,7 +3665,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A greeting card. a celebration of simple joys",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3801,9 +3801,9 @@
     "brew_suitability": [],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": "Third Wave Coffee. With its eye-catching design, it",
-    "region": "Style with the chic 710ml acrylic sipper mug from third wave coffee. with its eye-catching design",
-    "country": "Third",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3837,8 +3837,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Coffee, carefully sourced from one exceptional farm. we traveled far and wide to find the perfect beans, ensuring top quality and unique flavors. each bean is roasted to perfection to bring out its balanced, fruity nuances. enjoy a cup that's as special as you are",
-    "country": "Coffee",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -3872,7 +3872,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The days of the british raj. each cup is packed with bold flavours, complemented by strong, nutty",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3906,7 +3906,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Every sip, making your morning coffee a delightful and energizing experience. wake up, feel great",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -3980,7 +3980,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Beautiful chikmagalur",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -4019,9 +4019,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Yemen, stands as the embodiment of India's esteemed coffee culture. Immerse yourself in our exceptional roast, where you will discover a delightful interplay of flavors. Experience the gentle sweetness of juicy passionfruit balanced by the lively brightness of pineapple. As the temperature gradually descends, a captivating essence of richer molasses emerges, offering a truly indulgent sensation. This coffee is meticulously crafted through a natural processing method, wherein the coffee beans are dried alongside the cherry, resulting in a remarkable symphony of complex, fruity, and sweet flavors. Only the finest, fully ripened cherries are meticulously handpicked, expertly sorted, and sun-dried on African raised beds, ensuring a pristine and flawless quality.",
-    "region": "The hallowed grounds of baba budan giri hills. this renowned destination, named after the legendary merchant baba budan, who deftly transported precious coffee seeds from yemen, stands as the embodiment of india's esteemed coffee culture. immerse yourself in our exceptional roast, where you will discover a delightful interplay of flavors. experience the gentle sweetness of juicy passionfruit balanced by the lively brightness of pineapple. as the temperature gradually descends, a captivating essence of richer molasses emerges, offering a truly indulgent sensation. this coffee is meticulously crafted through a natural processing method, wherein the coffee beans are dried alongside the cherry, resulting in a remarkable symphony of complex, fruity, and sweet flavors. only the finest, fully ripened cherries are meticulously handpicked, expertly sorted, and sun-dried on african raised beds",
-    "country": "Yemen",
+    "estate": null,
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4151,7 +4151,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -4237,7 +4237,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The deep, bittersweet taste of dark chocolate, complemented by the sweet warmth of the subtle crunch of toasted nuts. crafted for a refined coffee experience",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -4273,8 +4273,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": "Ratnagiri",
-    "region": "Bio-reactors. post-fermentation, the coffee went directly to raised beds and dried slowly with constant stirring for 26 days building layered fruit expression. we roast it medium-light in delhi to preserve processing character, elevate sweetness, and keep the profile balanced with an extra-long finish. in the cup, expect grilled pineapple brightness with a touch of caramelized sweetness, umeshu-like depth from fermentation, a clear blueberry lift, and a gentle floral aroma. the body is juicy, the sweetness balanced yet complex, and the aftertaste long and wine-like",
-    "country": "Delhi",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -4320,9 +4320,9 @@
       "French Press",
       "Espresso"
     ],
-    "estate": "Karnataka and Tamil Nadu, has high body, low acidity, and is a excellent choice for people who want to have a strong cup, with the characteristic bittersweet notes. The Vienna Roast is best enjoyed with milk. The beans have been roasted to the higher side of medium to bring out the notes of roasted hazelnut, dark chocolate, and Raisin. This one is perfect for Espresso-based drinks, French Press, and other immersion brews. Facts",
-    "region": null,
-    "country": "Acidity",
+    "estate": "Riverdale",
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4358,9 +4358,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Chikmagalur, karnataka, which has a long and faithful global following. the coffee from the giri patte block, sequentially fermented and washed. whole cherries ferment anaerobically for 24 hours",
-    "country": "Chikmagalur",
+    "estate": "Ratnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -4405,8 +4405,8 @@
       "Moka Pot"
     ],
     "estate": "Riverdale",
-    "region": "Our hearts as it marks the very beginning of savorworks. it is where our journey began, and it's an honor to bring you the fruits of our labor from this remarkable farm. the washed coffee from riverdale estate is where we started the savorworks journey. the beans have been roasted to the higher side of medium to bring out the notes of gooseberry, raisin, toffee, roasted hazelnut. this one is perfect for espresso-based drinks, french press, moka pot",
-    "country": "Riverdale",
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4448,9 +4448,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
+    "estate": "Honey",
     "region": null,
-    "country": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4485,8 +4485,8 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "A cool, dry",
+    "estate": "Riverdale",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -4520,8 +4520,8 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "A cool, dry",
+    "estate": "Ratnagiri",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -4567,8 +4567,8 @@
       "V60"
     ],
     "estate": "Riverdale",
-    "region": "Arabica micro lot from riverdale estate, tamil nadu",
-    "country": "Arabica",
+    "region": "Tamil Nadu",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4668,8 +4668,8 @@
       "V60"
     ],
     "estate": "Ratnagiri",
-    "region": "The quality while brewing over pour over, kalita, v60, origami, april",
-    "country": "Ratnagiri",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -4740,9 +4740,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "West Godavari, Andhra Pradesh. Step 3",
+    "estate": null,
     "region": null,
-    "country": "West",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -4780,9 +4780,9 @@
     "preferred_brewing_equipment": [
       "V60"
     ],
-    "estate": "Coorg, Karnataka, India Medium Roast",
-    "region": "Arabica microlot from coorg, karnataka",
-    "country": "Arabica",
+    "estate": null,
+    "region": "Coorg",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4819,9 +4819,9 @@
     "preferred_brewing_equipment": [
       "V60"
     ],
-    "estate": "Gandha, Andhra Pradesh, India Medium Roast",
-    "region": "Arabica microlot from gandha, andhra pradesh",
-    "country": "Arabica",
+    "estate": null,
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -4859,7 +4859,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The same barrels, imbibing boozy and oaky flavor notes. we then caramelized the nibs with sugar and a touch of cacao butter",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -4894,7 +4894,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Indian subcontinent, where transporting the pods from the farm to the city is a rarity. this is what makes craft chocolate. this is where it all begins. and you can observe the process at the cacao mill. from cacao plantations in diverse",
+    "region": null,
     "country": "India",
     "price_per_100g": null
   },
@@ -4937,9 +4937,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "SUBKO VLGE, Paderu, Andhra Pradesh Medium Roast",
-    "region": "Specialty arabica from subko vlge, paderu",
-    "country": "Specialty",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -4975,7 +4975,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5010,8 +5010,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": "Salawara",
-    "region": "A craft chocolate bar, inspired by one of our first bakehouse creations. featuring a robusta coffee spread, made with single origin coffee from salawara estate, karnataka, roasted chopped hazelnuts and a crisp cacao biscuit base",
-    "country": "Coffee",
+    "region": "Karnataka",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5046,7 +5046,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Unison. it's a nod to the chocolates of yore, reimagined for the craft present. for adults and kids alike. because in the end",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5083,7 +5083,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -5121,7 +5121,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5323,7 +5323,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5357,9 +5357,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Subko VLGE Cooperative, West Godavari, Andhra Pradesh",
+    "estate": null,
     "region": null,
-    "country": "Subko",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5388,7 +5388,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Original form",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5419,7 +5419,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Original form",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5448,7 +5448,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Original form",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5484,9 +5484,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "West Godavari, Andhra Pradesh. Step 3",
+    "estate": null,
     "region": null,
-    "country": "West",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5589,7 +5589,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5622,7 +5622,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5657,7 +5657,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5693,9 +5693,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Kaithapara, Kerala. Can be spread on toasts, biscuits, cakes, topped on to pancakes, added to smoothies, or eaten as is by the spoon",
-    "region": "Cacao",
-    "country": "Cacao",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5732,7 +5732,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Collaboration with photographer rid burman and multidisciplinary artist aniruddh mehta. photographed in this book are the humans who construct the infrastructure & assemble machines that are required for an artisan chocolate factory to exist. a raw",
+    "region": null,
     "country": "India",
     "price_per_100g": null
   },
@@ -5766,9 +5766,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "West Godavari, Andhra Pradesh Cacao Percentage",
-    "region": "A facility that processes dairy",
-    "country": "West",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5803,7 +5803,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5838,7 +5838,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -5874,9 +5874,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Andhra Pradesh Cacao Butter Origin",
-    "region": "A facility that processes dairy",
-    "country": "Andhra",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5914,9 +5914,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Native farms, Maharashtra, and a single-origin specialty arabica microlot coffee from Ratnagiri",
-    "region": "A2 milk powder from native farms, maharashtra",
-    "country": "Native",
+    "estate": "Ratnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5951,9 +5951,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Thekkinthandu, Kerala and fully traceable A2 Milk Powder co-developed and sourced from Native",
-    "region": "Forastero cacao from thekkinthandu, kerala and fully traceable a2 milk powder co-developed and sourced from native farms",
-    "country": "Thekkinthandu",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -5991,9 +5991,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Thekkinthandu, Kerala. And to complete this culinary equation, we've placed roasted almonds at the centre. Prepare for an oscillating flavour experience, between spicy and sweet. Chocolate Type",
-    "region": "A facility that processes dairy",
-    "country": "Thekkinthandu",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6028,7 +6028,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6065,7 +6065,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A facility that processes dairy",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6100,7 +6100,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "These cubes, one can find a fusion of a white and dark chocolate hazelnut spread with some finely chopped roasted hazelnuts. at the heart of this cube is a chocolate coated hazelnut",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6135,9 +6135,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Leh",
-    "region": "This rendition of big cubes, we proudly showcase a tangy sea buckthorn jam",
-    "country": "Leh",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6192,8 +6192,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": "Pulney",
+    "region": "Tamil Nadu",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6221,7 +6221,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": "Height",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6314,7 +6314,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "Volume compared to the regular aeropress for maximum portability and fits perfectly on to its mug whilst brewing. the aeropress go brews american, espresso, and cold brew style coffee that can be enjoyed as is or used in a wide range of energizing and refreshing drinks. optimized for traveling, camping",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6439,7 +6439,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "An airtight environment, help maximise shelf life",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6534,7 +6534,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "50-gram packs. each coffee highlights different notes and flavors. explore the coffeeverse, where you can enjoy light roasts with bright flavors and dark roasts with bold tastes. each pack offers a unique tasting experience",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6566,9 +6566,9 @@
     "brew_suitability": [],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Thin layers on raised beds in a ventilated polyhouse, which controls temperature and protects against rain and uv exposure. we turn the cherries manually to ensure even drying and prevent fermentation. regular raking promotes airflow, enhancing the final flavor. in the evenings, cherries are covered to shield them from moisture. we monitor moisture levels",
-    "country": "Coorg",
+    "estate": "Manay",
+    "region": "Coorg",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6602,9 +6602,9 @@
     "brew_suitability": [],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "A stainless steel container. we used a strain called w1 which is a mix of yeast and bacteria to ferment the cherries for 48 hours in an anaerobic condition. after which they were removed and taken to raised beds for slow drying for 21 days. in the drying yard a controlled environment was maintained accounting for temperature and humidity which was monitored regularly. raxidi estate, located at an elevation of 950-1000 meters in sakleshpur, karnataka, spans 165 acres and has been nurtured by three generations of the lobo family since the 1950s. currently, father-daughter duo richard and rachel lobo continue this legacy, cultivating arabica varieties such as selection 6, catimore, and chandragiri, alongside robusta varieties like old peredenia and selection 270. their focus on micro-lots and innovative processing techniques results in coffee with unique depth and character, with every step, from handpicking cherries to using pure spring water",
-    "country": "Sakleshpur",
+    "estate": "Raxidi",
+    "region": "Sakleshpur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6637,9 +6637,9 @@
       "funky"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Is removed using a depulping machine, leaving beans covered in mucilage. unlike traditional methods, fermentation occurs in oxygen free tanks. the beans ferment in these sealed tanks for about 84 hours, which influences their flavor and aroma. after fermentation, the mucilage remains as the beans are dried on raised beds or patios under controlled conditions for even drying. located in chikmagalur, sai ashirwad estate is renowned for growing various coffees, including arabica sln 795,cxr and robusta old peridenia. the farm has organic certification, showcasing its commitment to sustainable practices. beyond coffee, it is a haven for wildlife like indian gaur and malabar giant squirrels. the estate features its own processing unit and drying yards to ensure careful handling of beans. additionally",
-    "country": "Chikmagalur",
+    "estate": "Ashirwad",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -6718,7 +6718,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "An anaerobic environment, where they are combined with wild herbs sourced from the farm. this method helps balance acidity and develop optimal flavor profiles. following fermentation, the cherries are dried in the shade, which helps preserve their complex characteristics. the end product is a coffee known for its rich flavor and exceptional quality",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6826,7 +6826,7 @@
     "brew_suitability": [],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": "Brazil are picked and then run through a siphon to remove any light defects. After that, they're laid out on raised trays to dry for about fifteen days, and they're raked regularly to make sure they dry evenly.",
+    "estate": null,
     "region": null,
     "country": "Brazil",
     "price_per_100g": null
@@ -6863,7 +6863,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A water bath. they are then surface dried and inoculated with lalcafe saccharomyces yeast. the cherries are placed in airtight containers for 72 hours of anaerobic fermentation, during which the yeast converts sugars into enzymes, esters, and alcohol, creating a unique flavor. after fermentation",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6947,7 +6947,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A controlled oxygen-free setting, utilizing saccharomyces yeast. this distinctive fermentation method enhances the flavors of the beans",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -6983,8 +6983,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The kere patte block. the coffee cherries, with a brix of 24.4 at harvest, underwent a 52-hour fermentation in bio fermenters with added lab culture microbes. after de-pulping and washing",
-    "country": "Bio",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7022,7 +7022,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The kere patte block. the cherries had a brix of 23.9 at harvest and were fermented in a nitrogen-rich environment using lab culture microbes at 2.2 bar pressure. after fermentation",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7061,8 +7061,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The kere patte block. the coffee cherries had a brix of 25.8 at harvest and were placed in bio fermenters after floater removal. a unique strain of saccharomyces yeast and lactic acid bacteria was added",
-    "country": "Bio",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7097,8 +7097,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The silvermara patte block. with a brix of 25.4 at harvest, the cherries underwent fermentation in bio fermenters with added microbes and lactic acid bacteria for 48 hours in a co2-rich environment. after de-pulping and washing",
-    "country": "Bio",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7137,8 +7137,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The sivermara patte block. the cherries had a brix of 25.9 at harvest and were placed in bio fermenters after floater removal. they were inoculated with various lab-grown cultures, purged with carbon dioxide, and fermented for 96 hours. after fermentation, the beans were dried slowly on raised beds for 31 days",
-    "country": "Bio",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7173,8 +7173,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The godown patte block. the cherries, harvested at a brix of 25.4, were placed in bio fermenters with added lab culture microbes and lactic acid bacteria for fermentation in a carbon dioxide-rich environment. after fermentation",
-    "country": "Bio",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7293,7 +7293,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The fermenters after floater removal. a strain of lab culture microbes were them introduced in a nitrogen rich environment and allowed to ferment for 60 hours at 2.2 bar pressure. after removing the coffee from the fermenters",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7328,7 +7328,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "And pulp are removed. this process relies on electrical pumps to bring water from the nearest source into reservoir tanks. to conserve water, the factory recirculates it during processing. a disc pulper with three sets of discs is used to separate the skin and fruit from the green coffee beans. following pulping, the coffee ferments overnight to break down sugars, then it is cleaned, soaked",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7363,7 +7363,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "And pulp while retaining the mucilage on the beans. the initial fermentation broke down the mucilage, followed by thorough washing. a second controlled fermentation ensured complete dissolution of any remaining layers, after which the parchment was left clean. the beans were then dried on raised beds under the mountain sun, allowing for gradual moisture stabilisation. this double-washed method produces a cup that is bold, clear",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7400,7 +7400,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A dark room for 12 days",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7441,7 +7441,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "A dark room, allowing for slow drying that fully develops the natural sugars and polysaccharides",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7517,7 +7517,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The jeri patte block. after harvesting with a brix of 25.8, we placed the cherries in stainless-steel fermenters, adding a specific strain of yeast and lactic acid bacteria. the fermentation took place in a carbon dioxide-rich environment",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7554,7 +7554,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Airtight bags to create an oxygen-free environment",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7588,9 +7588,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": null,
-    "country": null,
+    "estate": "Narmada",
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -7629,7 +7629,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "The fermentation. this goes a long way to prevent any off flavours. the pre-dried cherries are then put in sealed barrels , inoculated with a custom yeast culture and a controlled carbonic maceration enviornment is created. the fermentation lasts for 60 hours. the cherries are then dried in a poly house for 10 days",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -7710,9 +7710,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Krishnagiri estate ,high up in the Chandra drona hills",
-    "region": null,
-    "country": "Krishnagiri",
+    "estate": "Krishnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7748,9 +7748,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Krishnagiri estate ,high up in the Chandra drona hills",
-    "region": null,
-    "country": "Krishnagiri",
+    "estate": "Krishnagiri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7788,9 +7788,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Ram estate is back",
-    "region": "The village of kamanur near thandigudi",
-    "country": "Ram",
+    "estate": "Ram",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -7832,9 +7832,9 @@
       "V60",
       "Espresso"
     ],
-    "estate": "Perumpallam. The varietal is chandragiri and the processing is a simple traditional washed. This simplicity allows the plant care and the terroir to really shine in the cup. We took our time dialling in the roast of this lot but once we figured out a profile that worked, the cup really started to shine. There is oodles of milk chocolate sweetness that is punctuated by a lemon candy like acidity and marigold florals. The coffee does take some time to peak but once there we also started noticing raspberry like fruitiness too",
-    "region": "The cup. we took our time dialling in the roast of this lot but once we figured out a profile that worked",
-    "country": "Perumpallam",
+    "estate": "Ram",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -8037,7 +8037,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -8087,8 +8087,8 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": null,
+    "estate": "Valley",
+    "region": "Shevaroys",
     "country": null,
     "price_per_100g": null
   },
@@ -8137,8 +8137,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": "Zest",
+    "region": "Shevaroys",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -8171,7 +8171,7 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
+    "estate": "Ratnagiri",
     "region": null,
     "country": null,
     "price_per_100g": null
@@ -8252,8 +8252,8 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": null,
+    "estate": "Dimbada",
+    "region": "Sakleshpur",
     "country": null,
     "price_per_100g": null
   },
@@ -8294,8 +8294,8 @@
     "brew_suitability": [],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": null,
+    "estate": "Dimbada",
+    "region": "Sakleshpur",
     "country": null,
     "price_per_100g": null
   },
@@ -8346,7 +8346,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "El Salvador",
     "price_per_100g": null
   },
   {
@@ -8396,7 +8396,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "Rwanda",
     "price_per_100g": null
   },
   {
@@ -8443,7 +8443,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "Ethiopia",
     "price_per_100g": null
   },
   {
@@ -8493,7 +8493,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "Ethiopia",
     "price_per_100g": null
   },
   {
@@ -8542,7 +8542,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -8590,8 +8590,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -8643,8 +8643,8 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": null,
+    "estate": "Ratagiri",
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -8698,8 +8698,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -8897,7 +8897,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -8939,8 +8939,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": ", molasses , oak barrel",
-    "country": "Sakleshpur",
+    "region": "Sakleshpur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -8967,9 +8967,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "Athigiri, karnataka",
-    "country": "Athigiri",
+    "estate": "Ratnagiri",
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -8999,7 +8999,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
+    "region": "Karnataka",
     "country": null,
     "price_per_100g": null
   },
@@ -9050,8 +9050,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The western ghats, is managed by third-generation planters. established during british rule, it practices sustainable farming without external fertilisers or pesticides. in addition to coffee, it produces nutmeg, cacao, citrus fruits, and jackfruit. a serene lake supports its diverse crops. nestled in a unesco world heritage site, the estate thrives in harmony with nature",
+    "estate": "Balur",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -9105,8 +9105,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The heart of coorg's primary arabica coffee growing zone, the estate specializes in producing exceptional washed coffees. perched at an altitude of 1050 metres, sandalwood estate enjoys the perfect microclimate for producing premium coffee. the estate also cultivates premium black pepper and arecanut, showcasing their commitment to agricultural diversity. t hey have implemented advanced water conservation systems, reflecting their responsibility towards sustainability and preserving the environment. our washed arabica coffee, of the sarchimor variety, offers a chocolatey richness with tasting notes of dark chocolate, sweet prune",
+    "estate": "Sandalwood",
+    "region": "Coorg",
     "country": null,
     "price_per_100g": null
   },
@@ -9157,9 +9157,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Chikmagalur, a women-led enterprise run by Pranathi Shetty. The cup is clean, uniform, and marked by bold flavors that cut through with clarity and balance. Designed for everyday drinking, it carries both strength and refinement - dependable yet distinctive. The coffee starts with a comforting malt-like aroma. In the cup, notes of dark chocolate take center stage, followed by hints of ripe prunes that add depth and sweetness. A gentle acidity brings brightness, while the rounded body creates a smooth and satisfying mouthfeel. Clean and well-structured, the cup showcases consistency from start to finish, ending with delicate traces of cocoa and dried fruit. The coffee cherries were harvested at peak ripeness from farms located between 3,500 and 3,750 feet above sea level. After harvest, the cherries were carefully sorted, with all floaters and defective fruit removed before pulping. The parchment coffee was then fermented to break down the remaining mucilage, washed thoroughly, and slowly dried. This careful washed process helps preserve the coffee's sweetness, clarity, and uniform character in the final cup. It reminds us of",
-    "region": "Mudigere, 30 km from chikmagalur, a women-led enterprise run by pranathi shetty. the cup is clean, uniform, and marked by bold flavors that cut through with clarity and balance. designed for everyday drinking, it carries both strength and refinement - dependable yet distinctive. the coffee starts with a comforting malt-like aroma. in the cup, notes of dark chocolate take center stage, followed by hints of ripe prunes that add depth and sweetness. a gentle acidity brings brightness, while the rounded body creates a smooth and satisfying mouthfeel. clean and well-structured, the cup showcases consistency from start to finish, ending with delicate traces of cocoa and dried fruit. the coffee cherries were harvested at peak ripeness from farms located between 3,500 and 3,750 feet above sea level. after harvest, the cherries were carefully sorted, with all floaters and defective fruit removed before pulping. the parchment coffee was then fermented to break down the remaining mucilage, washed thoroughly, and slowly dried. this careful washed process helps preserve the coffee's sweetness, clarity",
-    "country": "Mudigere",
+    "estate": "Berri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -9254,9 +9254,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Chikmagalur, Karnataka's coffee offerings. 2 . Each sachet caters to a single-cup serving. 3 . Travel Friendly 4. Each brew bag is 11g each Brewing your favorite cup has never been simpler, here",
-    "region": "Collaboration with nicobar, this special edition pays tribute to the remarkable journey of coffee to india. from yemen to the hills of chikmagalur, the packaging reimagines this story through nicobar's signature lens of travel, culture and thoughtful design. the illustrated artwork traces the routes, landscapes and encounters that shaped coffee's passage across continents, celebrating the spirit of exploration that continues to connect people through a shared love for coffee. paired with bili hu's specialty arabica coffee, this collaboration brings together two brands united by a passion for craftsmanship, storytelling, and meaningful experiences. our drip coffee bags are a blend of arabica beans sourced from two distinct plantations in chikmagalur, karnataka. through a process of washing and pulping, these sundried arabicas unite to deliver a naturally sweet, berry-like flavor profile, harmonizing the bold body and bitterness of the brew. whether brewed hot, cold or with milk, indulge in its rich taste. 1 . crafted entirely from chikmagalur, karnataka's coffee offerings. 2 . each sachet caters to a single-cup serving. 3 . travel friendly 4. each brew bag is 11g each brewing your favorite cup has never been simpler",
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -9295,8 +9295,8 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -9346,9 +9346,9 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "Chikmagalur, a women-led enterprise run by Pranathi Shetty. The cup is clean, uniform, and marked by bold flavors that cut through with clarity and balance. Designed for everyday drinking, it carries both strength and refinement - dependable yet distinctive. The coffee starts with a comforting malt-like aroma. In the cup, notes of dark chocolate take center stage, followed by hints of ripe prunes that add depth and sweetness. A gentle acidity brings brightness, while the rounded body creates a smooth and satisfying mouthfeel. Clean and well-structured, the cup showcases consistency from start to finish, ending with delicate traces of cocoa and dried fruit. The coffee cherries were harvested at peak ripeness from farms located between 3,500 and 3,750 feet above sea level. After harvest, the cherries were carefully sorted, with all floaters and defective fruit removed before pulping. The parchment coffee was then fermented to break down the remaining mucilage, washed thoroughly, and slowly dried. This careful washed process helps preserve the coffee's sweetness, clarity, and uniform character in the final cup. It reminds us of",
-    "region": "Mudigere, 30 km from chikmagalur, a women-led enterprise run by pranathi shetty. the cup is clean, uniform, and marked by bold flavors that cut through with clarity and balance. designed for everyday drinking, it carries both strength and refinement - dependable yet distinctive. the coffee starts with a comforting malt-like aroma. in the cup, notes of dark chocolate take center stage, followed by hints of ripe prunes that add depth and sweetness. a gentle acidity brings brightness, while the rounded body creates a smooth and satisfying mouthfeel. clean and well-structured, the cup showcases consistency from start to finish, ending with delicate traces of cocoa and dried fruit. the coffee cherries were harvested at peak ripeness from farms located between 3,500 and 3,750 feet above sea level. after harvest, the cherries were carefully sorted, with all floaters and defective fruit removed before pulping. the parchment coffee was then fermented to break down the remaining mucilage, washed thoroughly, and slowly dried. this careful washed process helps preserve the coffee's sweetness, clarity",
-    "country": "Mudigere",
+    "estate": "Berri",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -9401,8 +9401,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The heart of coorg's primary arabica coffee growing zone, the estate specializes in producing exceptional washed coffees. perched at an altitude of 1050 metres, sandalwood estate enjoys the perfect microclimate for producing premium coffee. the estate also cultivates premium black pepper and arecanut, showcasing their commitment to agricultural diversity. t hey have implemented advanced water conservation systems, reflecting their responsibility towards sustainability and preserving the environment. our washed arabica coffee, of the sarchimor variety, offers a chocolatey richness with tasting notes of dark chocolate, sweet prune",
+    "estate": "Sandalwood",
+    "region": "Coorg",
     "country": null,
     "price_per_100g": null
   },
@@ -9459,7 +9459,7 @@
     "preferred_brewing_equipment": [],
     "estate": null,
     "region": null,
-    "country": "Bushing",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -9493,9 +9493,9 @@
       "French Press",
       "Espresso"
     ],
-    "estate": "CR3-Kaffeeveredelung M. Hermsen in Bremen, Germany, ensuring the highest quality and taste without the caffeine. Our roast profile is finely tuned to highlight the nuanced flavors that make for an exceptional decaf. With a delightful balance and remarkable versatility, this coffee performs beautifully across multiple brewing methods, from French press to espresso. Each cup reveals a rich and rounded experience that transcends typical decaf offerings, providing a satisfying and flavorful journey for any coffee enthusiast who desires the experience of specialty coffee without caffeine. The Decaffeination method helps to remove most of the caffeine while allowing for the main flavor compounds to be retained in the coffee. This way, if you are averse to caffeine, you can still enjoy a delicious cup of coffee without much caffeine in it",
-    "region": "Bremen, germany, ensuring the highest quality and taste without the caffeine. our roast profile is finely tuned to highlight the nuanced flavors that make for an exceptional decaf. with a delightful balance and remarkable versatility, this coffee performs beautifully across multiple brewing methods, from french press to espresso. each cup reveals a rich and rounded experience that transcends typical decaf offerings, providing a satisfying and flavorful journey for any coffee enthusiast who desires the experience of specialty coffee without caffeine. the decaffeination method helps to remove most of the caffeine while allowing for the main flavor compounds to be retained in the coffee. this way, if you are averse to caffeine",
-    "country": "Bremen",
+    "estate": null,
+    "region": null,
+    "country": "Colombia",
     "price_per_100g": null
   },
   {
@@ -9549,8 +9549,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "Controlled fermentation vats, designed to push the boundaries of flavour development and create an intensely funky, wine-forward profile. following fermentation, the cherries are carefully sun-dried for 10 days before being rested and aged as green coffee for over 8 months, allowing the flavours to deepen and mature beautifully. roasted specifically as a vienna dark roast, this coffee delivers a bold and decadent cup with reduced acidity and a rich, creamy body. expect notes of dark chocolate, cocoa bitters, spiced rum, caramelised sweetness",
+    "estate": "Kalledevarapura",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -9602,8 +9602,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "That moment",
+    "estate": "Kalledevarapura",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -9650,8 +9650,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": "India. The arabica beans from Chikmagalur are transported to Mangalore, a coastal city in India. During the monsoon season, the beans absorb moisture from the coastal winds, causing them to swell and develop a pale yellow color. This process results in some of the most distinctive flavors found in coffee. This unique Indian practice has gained global recognition, and we are delighted to offer it to discerning coffee lovers in India. Ideal for manual extraction methods and is enjoyed best as black coffee. It reminds us of",
-    "region": "India. during the monsoon season, the beans absorb moisture from the coastal winds, causing them to swell and develop a pale yellow color. this process results in some of the most distinctive flavors found in coffee. this unique indian practice has gained global recognition",
+    "estate": null,
+    "region": "Chikmagalur",
     "country": "India",
     "price_per_100g": null
   },
@@ -9702,8 +9702,8 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "Mysore. this gourmet coffee boasts a bold, robust flavor profile with a full body and rich aroma, making it an exceptional choice for espresso enthusiasts. the size and shape of the beans contribute to a deep",
-    "country": "Mysore",
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -9740,7 +9740,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Your drip bag, best enjoyed black. our barrel-aged coffee begins its journey with green coffee beans patiently aged in upcycled whiskey barrels for three weeks. during this time, the beans naturally absorb the rich, aromatic essence of the barrels, infusing them with deep",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -9772,8 +9772,8 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "India. The arabica beans from Chikmagalur are transported to Mangalore, a coastal city in India. During the monsoon season, the beans absorb moisture from the coastal winds, causing them to swell and develop a pale yellow color. This process results in some of the most distinctive flavors found in coffee. This unique Indian practice has gained global recognition, and we are delighted to offer it to discerning coffee lovers in India. Ideal for manual extraction methods and is enjoyed best as black coffee. Each sachet caters to a single-cup serving. Travel Friendly Net weight",
-    "region": "Your drip bag, best enjoyed black. monsooned malabar - a unique specialty coffee from india. the arabica beans from chikmagalur are transported to mangalore, a coastal city in india. during the monsoon season, the beans absorb moisture from the coastal winds, causing them to swell and develop a pale yellow color. this process results in some of the most distinctive flavors found in coffee. this unique indian practice has gained global recognition",
+    "estate": null,
+    "region": "Chikmagalur",
     "country": "India",
     "price_per_100g": null
   },
@@ -9805,8 +9805,8 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "CR3-Kaffeeveredelung M. Hermsen in Colombia, ensuring the highest quality and taste without the caffeine. Our roast profile is finely tuned to highlight the nuanced flavors that make for an exceptional decaf - with a delightful balance and remarkable versatility. The Decaffeination method helps to remove most of the caffeine while allowing for the main flavor compounds to be retained in the coffee. This way, if you are averse to caffeine, you can still enjoy a delicious cup of coffee without much caffeine in it",
-    "region": "Colombia, ensuring the highest quality and taste without the caffeine. our roast profile is finely tuned to highlight the nuanced flavors that make for an exceptional decaf - with a delightful balance and remarkable versatility. the decaffeination method helps to remove most of the caffeine while allowing for the main flavor compounds to be retained in the coffee. this way, if you are averse to caffeine",
+    "estate": null,
+    "region": null,
     "country": "Colombia",
     "price_per_100g": null
   },
@@ -9856,8 +9856,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The western ghats, is managed by third-generation planters. nestled in a unesco world heritage site, the estate thrives in harmony with nature, reflecting local traditions of respect and coexistence. they not only cultivate premium arabica beans but also produce some of the finest robusta in india. this omni-roast is perfect for brewing in a mokapot, pour-over",
+    "estate": "Single",
+    "region": "Chikmagalur",
     "country": "India",
     "price_per_100g": null
   },
@@ -9910,8 +9910,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The western ghats, is managed by third-generation planters. established during british rule, it practices sustainable farming without external fertilisers or pesticides. in addition to coffee, it produces nutmeg, cacao, citrus fruits, and jackfruit. a serene lake supports its diverse crops. nestled in a unesco world heritage site, the estate thrives in harmony with nature",
+    "estate": "Balur",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -9966,8 +9966,8 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": "Chikmagalur, creating a smoky and cherry-like flavor profile with layered, subtle nuance. perfectly suited for milk-based brews",
-    "country": "Chikmagalur",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10016,8 +10016,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "2013 by rohini rajgopal, features a 20-acre organic arabica plot on an eastern-facing hill at 1050-1100 m elevation. the farm uses imo-certified organic and farmyard manure, is pesticide-free, and practices manual weeding. aghora estate is a part of a 350-acre plantation in the chikmagalur district, western ghats. since 1972, it has been producing specialty shade-grown arabica and robusta coffee, along with black and white pepper, cardamom",
+    "estate": "Aghora",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10068,8 +10068,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "The western ghats, is managed by third-generation planters. established during british rule, it practices sustainable farming without external fertilisers or pesticides. in addition to coffee, it produces nutmeg, cacao, citrus fruits, and jackfruit. a serene lake supports its diverse crops. nestled in a unesco world heritage site, the estate thrives in harmony with nature",
+    "estate": "Balur",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10119,8 +10119,8 @@
       "Moka Pot"
     ],
     "estate": "Kalledevarapura",
-    "region": null,
-    "country": "Kalledevarapura",
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10191,7 +10191,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Upcycled whiskey barrels for three weeks. during this time, the beans naturally absorb the rich, aromatic essence of the barrels, infusing them with deep",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10252,9 +10252,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Bili Hu",
+    "estate": null,
     "region": null,
-    "country": "Bili",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10279,7 +10279,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "India. every bili hu gift is more than coffee",
+    "region": null,
     "country": "India",
     "price_per_100g": null
   },
@@ -10305,7 +10305,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "India. every bili hu gift is more than coffee",
+    "region": null,
     "country": "India",
     "price_per_100g": null
   },
@@ -10344,9 +10344,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Chikmagalur, Karnataka's coffee offerings. Each sachet caters to a single-cup serving. Travel Friendly Each brew bag is 11g each Brewing your favorite cup has never been simpler",
-    "region": "Chikmagalur, karnataka. through a process of washing and pulping, these sundried arabicas unite to deliver a naturally sweet, berry-like flavor profile, harmonizing the bold body and bitterness of the brew. whether savored hot, cold or with milk, indulge in its rich taste. crafted entirely from chikmagalur",
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10431,7 +10431,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "250gram packs, perfect for diwali, corporate gifting, weddings, birthdays or simply celebrating moments that matter. every bili hu gift is more than coffee",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -10457,7 +10457,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "100gram packs, perfect for diwali, corporate gifting, weddings, birthdays or simply celebrating moments that matter. every bili hu gift is more than coffee",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -10512,7 +10512,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": null,
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10542,8 +10542,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -10570,8 +10570,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -10596,8 +10596,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": null,
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -10622,8 +10622,8 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Is suitable for homes, coffee houses, restaurants, bars, and other places where need to make coffee. manufacturer address - vimoksha beverage solutions pvt ltd",
-    "country": null,
+    "region": "Karnataka",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -10652,9 +10652,9 @@
       "nutty"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Chikmagalur, Karnataka. Each sachet ensures a rich, aromatic experience that's perfect for one cup. Key Features",
-    "region": "Your favorite mug. pour 200ml of hot water over the bag. dunk the bag for 15-30 seconds to enhance extraction. allow the bag to steep in the cup for 5 minutes or longer",
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10692,9 +10692,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Chikmagalur, Karnataka's coffee offerings. Each sachet caters to a single-cup serving. Travel Friendly Each brew bag is 11g each Brewing your favorite cup has never been simpler",
-    "region": "Chikmagalur, karnataka. through a process of washing and pulping, these sundried arabicas unite to deliver a naturally sweet, berry-like flavor profile, harmonizing the bold body and bitterness of the brew. whether brewed hot, cold or with milk, indulge in its rich taste. crafted entirely from chikmagalur",
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10733,7 +10733,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "An open container. cover and let it sit undisturbed for 16-18 hours. 2. filter the brew in a bottle or jar using a muslin cloth or cold brew filter paper. 3. store the filtered coffee in the refrigerator. consume within 7-10 days for optimal freshness. 4. when serving, add ice cubes, milk",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10784,7 +10784,7 @@
       "Moka Pot"
     ],
     "estate": null,
-    "region": null,
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10833,8 +10833,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "A robust body with a hint of sweetness. our recommended brewing methods - espresso",
+    "estate": "Kalledevarapura",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10872,9 +10872,9 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": "Chikmagalur, Karnataka to mirror the authentic Vietnamese experience. Caphe Da, also recognized as Vietnamese Coffee, stands as a revered global coffee delight distinctive to Vietnam. Renowned for Its sweet taste and chocolatey undertones, Vietnamese Coffee captures the essence of indulgence. Enjoy it piping hot or over ice, complemented by the rich sweetness of condensed milk.",
-    "region": null,
-    "country": "Chikmagalur",
+    "estate": null,
+    "region": "Chikmagalur",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -10923,8 +10923,8 @@
       "Espresso",
       "Moka Pot"
     ],
-    "estate": null,
-    "region": "Mullayanagiri",
+    "estate": "Kalledevarapura",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -10998,7 +10998,7 @@
     ],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -11041,7 +11041,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "The workflow. 2. lean blend tastes like - medium bodied",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -11077,7 +11077,7 @@
       "French Press"
     ],
     "estate": null,
-    "region": "Your brewing tools for consistency, cleanliness",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11107,7 +11107,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Your coffee. 5. brewing process analyze each brewing phase from wetting and blooming to extraction and yield calculation while understanding how these affect sensory results. 6. brew analysis & sensory evaluation measure soluble yield and concentration, describe a balanced brew, and use professional tools to interpret data and sensory feedback accurately. 7. maintenance & optimization learn how grinder burr quality and replacement cycles affect consistency, and explore the sensory and technical impact of bypass brewing techniques. about your certified sca trainer this course is led by naitik shah",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11143,8 +11143,8 @@
       "French Press"
     ],
     "estate": null,
-    "region": "Your brewing tools for consistency, cleanliness, and long-term performance. with a strong focus on practical application, participants will learn how to brew thoughtfully, evaluate their results",
-    "country": "Muscat",
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -11173,7 +11173,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Us across brim outlets for our coffee tasting sessions - where you taste, talk flavour",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11206,7 +11206,7 @@
       "V60"
     ],
     "estate": null,
-    "region": "A consistent brewing temperature, while the cone-shaped design and single large opening provide greater control over flow rate and flavor. lightweight yet sturdy, the v60 metal dripper is ideal for both home brewers and coffee professionals seeking a clean",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11303,9 +11303,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
-    "country": null,
+    "estate": "Ratnagiri",
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -11347,7 +11347,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -11382,8 +11382,8 @@
     ],
     "flavor_families": [],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
+    "estate": "Salawara",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11424,8 +11424,8 @@
       "sweet"
     ],
     "preferred_brewing_equipment": [],
-    "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
+    "estate": "Salawara",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11479,9 +11479,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": "Block 24 at a Brix level of 22. This lot underwent yeast inoculation using Pichia and Lactobacillus, fermented in large stainless-steel tanks. Carbon dioxide was introduced during fermentation to enhance the coffee",
-    "region": "A controlled nursery drying system. roasters note - this lot shows a bright green-apple acidity layered over prune-like sweetness. we roasted it to keep those fruit tones intact while allowing the creamy mouthfeel to carry through on the finish. development was kept controlled to retain clarity and balance without compromising texture",
-    "country": "Block",
+    "estate": null,
+    "region": null,
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -11534,7 +11534,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Natural sugars, acids, and a diverse microbial culture of yeasts and bacteria. fresh coffee cherries are placed in large, food-grade barrels",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11562,7 +11562,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Your coffee journey with the sca brewing intermediate course at corridor seven coffee roasters. this intensive 2-day course is designed for experienced brewers and coffee enthusiasts ready to master their craft and earn an internationally recognized certification. perfect for anyone who has completed the foundation course, this program goes beyond the basics to deepen your understanding of the science and art of brewing. you will gain advanced coffee brewing skills through a mix of theory and hands-on practice",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11600,8 +11600,8 @@
       "Espresso"
     ],
     "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
-    "country": null,
+    "region": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -11642,8 +11642,8 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": "A nitrogen-flushed drip bag to lock in freshness and brighter flavour. tear it open, place it on your cup, pour hot water, and let gravity do the work. brew directly into your cup and enjoy a full-bodied, aromatic coffee - at home, at work",
+    "estate": "Ratnagiri",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11693,7 +11693,7 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
+    "estate": "our",
     "region": null,
     "country": null,
     "price_per_100g": null
@@ -11745,7 +11745,7 @@
     ],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Sealed drums for 72 hours, allowing complex flavours to develop. post-fermentation, they are transferred to raised wooden drying beds and dried slowly under shade nets. during this stage, the cherries are regularly raked to ensure even and consistent drying. once fully dried, they are packed into gunny bags and rested for 60 days",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -11796,7 +11796,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": null,
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -11852,7 +11852,7 @@
     ],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -12041,7 +12041,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "The craft, the precision",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -12089,9 +12089,9 @@
     "preferred_brewing_equipment": [
       "Espresso"
     ],
-    "estate": null,
-    "region": null,
-    "country": null,
+    "estate": "BAARBARA",
+    "region": "Chikmagalur",
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -12197,7 +12197,7 @@
     "flavor_families": [],
     "preferred_brewing_equipment": [],
     "estate": null,
-    "region": "Order to add priced options to the cart, this product must be visible in the online store and set to don't track inventory . modifying these settings may prevent your shoppers from checking out. you may safely update the default title and image to better suit your shop. for questions",
+    "region": null,
     "country": null,
     "price_per_100g": null
   },
@@ -12272,7 +12272,7 @@
     ],
     "estate": null,
     "region": null,
-    "country": "Aeropress",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -12371,7 +12371,7 @@
     ],
     "estate": null,
     "region": null,
-    "country": null,
+    "country": "India",
     "price_per_100g": null
   },
   {
@@ -12512,7 +12512,7 @@
     ],
     "estate": null,
     "region": null,
-    "country": "Japan",
+    "country": null,
     "price_per_100g": null
   },
   {
@@ -12594,7 +12594,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": null,
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   },
@@ -12641,7 +12641,7 @@
       "Espresso"
     ],
     "estate": null,
-    "region": null,
+    "region": "Chikmagalur",
     "country": null,
     "price_per_100g": null
   }
